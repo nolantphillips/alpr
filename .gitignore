@@ -1,4 +1,4 @@
 data/*
-datasets/car_license_plates/*
-runs/detect/*
+datasets/*
+runs/*
 test_thresh.png
