@@ -1,0 +1,10 @@
+ultralytics
+numpy
+matplotlib
+pandas
+pytesseract
+opencv-python
+glob2
+scikit-learn
+torch
+jiwer
